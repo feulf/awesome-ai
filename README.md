@@ -20,7 +20,8 @@ Table of Contents
 * [Communities](#communities)
 
 ## Apps
-- 
+- [MacGPT](https://goodsnooze.gumroad.com/l/menugpt), simple native MacOS popup for ChatGPT
+- [Text Assistant](https://goodsnooze.gumroad.com/l/textassistant), create prompt for your favorite use case
 
 ## Developer Tools
 - 
